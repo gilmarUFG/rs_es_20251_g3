@@ -1,6 +1,6 @@
 # **Requisito Funcional 04**
 
-> De acordo com os requisitos funcionais especificados no arquivo [[ap-aula2-g3]], o requisito funcional 04 define: Deve ser possível cadastrar fornecedores e registrar pedidos de reposição.
+> De acordo com os requisitos funcionais especificados no arquivo do  [Cenário Problema](ap-aula2-g3), o requisito funcional 04 define: Deve ser possível cadastrar fornecedores e registrar pedidos de reposição.
 
 ---
 ## **1 - Descrição detalhada do requisito**
