@@ -1,6 +1,6 @@
 # **Requisito Funcional 04**
 
-> De acordo com os requisitos funcionais especificados no arquivo do [Cenário Problema](https://chatgpt.com/c/ap-aula2-g3.md), o requisito funcional 04 define: Deve ser possível cadastrar fornecedores e registrar pedidos de reposição.
+> De acordo com os requisitos funcionais especificados no arquivo do [Cenário Problema](ap-aula2-g3.md), o requisito funcional 04 define: Deve ser possível cadastrar fornecedores e registrar pedidos de reposição.
 
 ---
 
