@@ -1,1 +1,2 @@
-Link para o Mural completo: https://www.figma.com/board/AgS25PPE9OtByYJPl25Sv0/as3_rs_grupo3?node-id=0-1&t=4HkqIAVFf3ojarwo-1
+- Link para o Mural completo no figma: https://www.figma.com/board/AgS25PPE9OtByYJPl25Sv0/as3_rs_grupo3?node-id=0-1&t=4HkqIAVFf3ojarwo-1
+- Pdf do mural: [as3_rs_grupo3.pdf](https://github.com/user-attachments/files/19674302/as3_rs_grupo3.pdf)
