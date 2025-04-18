@@ -1,0 +1,90 @@
+Cenário;Matrícula;Nome;DUPLICADO;PRIORIDADE;Sugestão
+3;202201679;ABRAAO SANTIAGO MOREIRA;FALSE;MEDIA;O sistema deve permitir visualização do consumo de energia separado por cômodos ou departamentos.
+3;202201681;ALINE LIMA MARTINS COELHO;FALSE;ALTA;"Com base nos padrões de consumo do usuário; o software deve oferecer recomendações para otimizar o consumo de energia."
+3;202206141;ALINE NUNES DOS SANTOS;TRUE;-;O sistema deve coletar dados de gastos de energia e ajudar o usuário a perceber onde é possível economizar energia.
+3;202306332;ÁLVARO VELOSO LISBOA;FALSE;BAIXA;"Integração com assistentes pessoais; como Alexa; para controle de dispositivos inteligentes; ajudando a controlar o consumo de energia."
+3;202201683;ARTHUR NUCADA FELIX DE SOUZA;TRUE;-;O sistema deve possibilitar integração com sistemas que controlem os aparelhos que utilizem energia elétrica
+3;202305528;CLAUDIO CRISTIANO LOUZA FILHO;TRUE;-;O sistema pode simular cenários de economia com base em hábitos e sugerir mudanças para reduzir custos futuros.
+3;202201689;FELIPE MOREIRA SILVA;TRUE;-;O sistema deve notificar o usuário em períodos de alta no preço da energia.
+3;202201691;GABRIEL BORGES GARCIA;FALSE;BAIXA;O Sistema deve ter um equipamento de maior precisao aos equipamentos de maior consumo.
+3;202206970;GABRIEL FERREIRA SILVA;FALSE;MEDIA;"O usuario deve ser capaz de ver uma projeção da quantidade de energia que sera consumida no mes; para assim gerenciar o seu consumo"
+3;202108000;GABRIEL MILHOMEM CUNHA;FALSE;ALTA;"O sistema deve notificar o usuário em tempo real quando houver um consumo excessivo de energia; sugerindo ações imediatas para economizar."
+3;202004754;GIOVANNA LYSSA RODRIGUES BORGES TELES;TRUE;-;O sistema deve sugerir automaticamente ações para reduzir o consumo de energia com base nos hábitos do usuário
+3;202201692;GUILHERME GONÇALVES DUTRA DE MENDONÇA;FALSE;ALTA;"O sistema deve permitir que os usuários visualizem em tempo real o consumo de energia de diferentes dispositivos e áreas; através de um painel intuitivo;"
+3;202107016;GUSTAVO NEVES PIEDADE LOUZADA;FALSE;BAIXA;"O sistema deve se conectar aos dispositivos da rede elétrica; como lâmpadas e tomadas inteligentes"
+3;201802766;HALLEFFY HENRYK REIS SANTOS;TRUE;-;O sistema deve informar ao usuário o quantidade de energia gasta em tempo real.
+3;202201693;HUGO MORENO I VEIGA JARDIM;FALSE;MEDIA;O sistema deve analisar padrões de consumo e otimizar automaticamente o uso de energia em diferentes horários.Deve incluir integração com fontes renováveis e relatórios detalhados de economia e impacto ambiental.
+3;201910884;JAIR SOUZA MEIRA RODRIGUES;TRUE;-;O sistema deve sugerir aparelhos que consumam menos energia e alternativas ao uso excessivo de energia.
+3;202201694;JHEISSYANE KELLY DA SILVA SOUZA;FALSE;ALTA;O sistema deverá gerar relatórios diários que permitam o acompanhamento e comparação do consumo de energia entre os dias da semana
+3;202201695;JOÃO GABRIEL CAVALCANTE FRANÇA;FALSE;ALTA;"Criação de um termo de consentimento de uso dos dados de consumo para utilização em um sistema de detecção de anomalias; a fim de detectar irregularidades."
+3;202201697;JOÃO VITOR ALVES DOS REIS;FALSE;ALTA;"O sistema deve fornecer uma interface gráfica; multiplataforma; para fácil visualização das informações de estatística e consumo."
+3;201910887;JOÃO VITOR DA COSTA ALMEIDA;TRUE;-;O sistema deve monitorar o consumo de energia em tempo real.
+3;202201699;JOSÉ ALVES DE OLIVEIRA NETO;TRUE;-;O sistema deve exibir o consumo de energia em tempo real detalhando o gasto por eletrodoméstico.
+3;202004761;JOSÉ CARLOS LEE;FALSE;MEDIA;"O sistema deve permitir ao usuário visualizar um histórico comparativo do consumo de energia (ex: mês atual vs. mês anterior; ou mesmo período do ano anterior)."
+3;202300194;JOSEPPE PEDRO CUNHA FELLINI;TRUE;-;O sistema deve monitorar em tempo real o consumo de energia e fornecer recomendações para otimização e economia.
+3;202201700;LEONARDO MOREIRA DE ARAÚJO;TRUE;-;"O usuário deve ser capaz de estipular o seu gasto energético por um determinado período de tempo (mensal; semestral; anual)."
+3;202201703;LUCAS GABRIEL NUNES ALVES;TRUE;-;O sistema deve coletar dados sobre o consumo de energia em tempo real e permitir que os usuários ajustem os dispositivos para otimizar o uso e reduzir desperdícios.
+3;202004766;LUIS FELIPE FERREIRA SILVA;FALSE;BAIXA;Utilizar ferramentas e tecnologias de IoT para permitir que o usuário monitore e controle o consumo de energia de cada máquina/eletrodoméstico de sua residência/empresa individualmente.
+3;202108922;MARIA EDUARDA DE CAMPOS RAMOS;TRUE;-;O sistema deve analisar o histórico de consumo energético e notificar o usuário quando o consumo de energia estiver maior que o usual.
+3;202201706;MATEUS HENRIQUE GANDI DE OLIVEIRA;FALSE;BAIXA;"Sistema deve ser capaz de integrar a rede atual de energia; e a partir de permissões dadas pelos próprios usuários; pode gerenciar de forma controlada a distribuição de energia de residencias com placas solares a residencias que estão conectadas; mas que não contam com tal tecnologia; reduzindo assim custos com a operadora local; já que a partir do sistema; o usuário pode gerenciar quando gasta e quanto pode usar da rede privada; e beneficia quem recebe; pois o mesmo comercializa energia excedente."
+3;202201707;MATHEUS FRANCO CASCÃO COSTA;TRUE;-;Monitoramento em tempo real do consumo de energia
+3;202204842;MAURO SÉRGIO DO NASCIMENTO JUNIOR;TRUE;-;"O sistema pode sugerir formas de controle do consumo de energia; indicando os gastos mais significativos."
+3;202201708;MIKAEL BORGES DE OLIVEIRA E SILVA JUNIOR;TRUE;-;Integração de sensores IoT para balanceamento automático de energia.
+3;202300197;PHABLO TAVARES PAIXÃO;TRUE;-;o usuário deve ter acesso a um relatório indicando o consumo de energia dos eletrodomésticos de sua casa
+3;202200031;RAQUEL DIAS DA SILVA;TRUE;-;O sistema deve monitorar o consumo energético em tempo real e sugerir ajustes nos dispositivos conectados.
+3;202201712;SAMUEL JOSE EVANGELISTA ALVES;FALSE;BAIXA;O sistema deve utilizar algoritmos de Machine Learning para realizar previsões e otimizações com base nos dados históricos de consumo de energia
+3;202201713;SOPHIA FERNANDES MAGALHÃES ALMEIDA;FALSE;MEDIA;"O sistema deve permitir a ativação de um modo de economia; que ajusta automaticamente o funcionamento de dispositivos com base em horários de tarifa reduzida (como horários fora de pico) e nas preferências do usuário."
+3;202201714;STEPHANY DE OLIVEIRA SOUSA MILHOMEM;FALSE;BAIXA;O sistema deve separar o consumo de energia em categorias para que o usuário possa ter controle de quais áreas consomem mais energia.
+3;202201715;TANIELE ROCHA MADUREIRA;TRUE;-;O sistema deve notificar o usuário se a quantidade de energia consumida ultrapassar um determinado valor
+3;202009586;THAYLINY ALVES DE MOURA;FALSE;BAIXA;O usuário deve ser capaz de programar o uso da energia de sua residência
+3;202201716;THIAGO VICENTE DE AQUINO;TRUE;-;"O sistema deve ser capaz de se integrar com dispositivos de uma smart home; gerenciando esses para que seu consumo seja reduzido quando não utilizado; evitando disperdícios."
+3;202204532;VICTOR MARTINS VIEIRA;FALSE;BAIXA;"O sistema deve identificar padrões de disponibilidade e indisponibilidade de energia em cada uma de suas fontes; se houver mais de uma (placas solares; geradores; rede de distribuição) e adequar a seleção de fonte para otimização dos parâmetros definidos pelo usuário (custo; disponibilidade; qualidade da energia entregue)."
+3;202201717;VITOR MARTINS CASTANHEIRA;TRUE;-;"O sistema deve ser capaz de classificar cada artefato da residência/empresa quanto ao nível de gasto de energia (alto; baixo; médio; insignificante...)"
+3;202201718;VITOR PAULO ETERNO GODOI;FALSE;MEDIA;"O sistema deve possuir padrões registrados da média do consumo de eletrodomésticos comuns em residencias e máquinas em empresas; para que o usuário possa identificar possíveis falhas de um aparelho que está gastando mais energia do que deveria; ou até mesmo falhas na rede elétrica da residência ou empresa."
+3;202204843;VITORIA LUZ ALVES D ABADIA;FALSE;ALTA;"O sistema deve conseguir calcular o consumo com base no consumo individual de cada aparelho e o tempo gasto . Ex:Um chuveiro de 5.500 W; por exemplo; usado durante 20 minutos por dia; pode consumir cerca de 3;3 kWh (quilowatt-hora) em um único banho."
+6;302201679;ABRAAO SANTIAGO MOREIRA;FALSE;;O sistema deve permitir chat e anotações médicas: Médico pode fazer anotações e enviar mensagens ao paciente.
+6;302201680;ALINE AYUMI SOMA HAMANO;TRUE;;O sistema deve permitir que o paciente avalie o médico que o atendeu.
+6;302201681;ALINE LIMA MARTINS COELHO;FALSE;;"O paciente deve ter acesso a um repositório; dentro da plataforma; com seus laudos; prescrições; exames e orientações recebidas nas consultas."
+6;302206141;ALINE NUNES DOS SANTOS;FALSE;;"O sistema deve garantir que; durante as teleconsultas; o médico e o paciente consigam se comunicar de maneira clara e sem interrupções."
+6;302306332;ÁLVARO VELOSO LISBOA;FALSE;;"A solução deve permitir acesso simplificado para pacientes com limitações (física; mental; idade avançada)."
+6;302201683;ARTHUR NUCADA FELIX DE SOUZA;FALSE;;O sistema deve mimetizar o ambiente de um consultório real
+6;302305528;CLAUDIO CRISTIANO LOUZA FILHO;FALSE;;"O sistema deve permitir que o paciente avalie a experiência da consulta em VR; sugerindo melhorias na interface; comunicação ou ambientação virtual."
+6;302201689;FELIPE MOREIRA SILVA;FALSE;;O sistema deve permitir que o usuário paciente consiga ter uma experiência imersiva independante de sua mobilidade.
+6;302201691;GABRIEL BORGES GARCIA;FALSE;;O Sistema deve ser capaz de gerar um autenticador para as receitas virtuais.
+6;202206970;GABRIEL FERREIRA SILVA;TRUE;;Permitir a visualização de exames como raio x e ultrasom no ambiente em 3d no ambiente
+6;302108000;GABRIEL MILHOMEM CUNHA;FALSE;;O sistema deve permitir que o médico visualize imagens e vídeos de exames médicos em 3D durante a consulta.
+6;202004754;GIOVANNA LYSSA RODRIGUES BORGES TELES;TRUE;;"O sistema deve permitir que o médico faça anotações em tempo real durante a consulta; visíveis para o paciente no ambiente virtual"
+6;302201692;GUILHERME GONÇALVES DUTRA DE MENDONÇA;FALSE;;"O usuário deve ser capaz de agendar e participar de consultas médicas remotas utilizando realidade virtual; interagindo com o profissional de saúde em um ambiente imersivo."
+6;202107016;GUSTAVO NEVES PIEDADE LOUZADA;FALSE;;O sistema deve utilizar modelos 3D inseridos dentro da Realidade Virtual para facilitar a explicação de condições de saúde específicas aos pacientes
+6;201802766;HALLEFFY HENRYK REIS SANTOS;FALSE;;"O sistema deve cadastrar um usuário; esse podendo ser médico ou paciente."
+6;302201693;HUGO MORENO I VEIGA JARDIM;FALSE;;O sistema deve permitir consultas imersivas com visualização 3D de dados médicos e sintomas. Deve oferecer integração com dispositivos médicos domésticos e suporte para sessões terapêuticas virtuais.
+6;302009569;JANNDERSON OLIVEIRA DA SILVA;FALSE;;"O sistema deve priorizar pacientes urgentes de acordo com a descrição que o usuário fara por aúdio; que deve ser transcrito e traduzido pelo sistema; o paciente ou uma pessoa próxima receberá orientações e esse usuário terá prioridade na fila; como por exemplo num acidente de trânsito com vitima grave com objeto transfixado."
+6;201910884;JAIR SOUZA MEIRA RODRIGUES;FALSE;;O sistema deve permitir a conexão com outros dispositivos como câmeras ou glicosimetros por exemplo.
+6;302201694;JHEISSYANE KELLY DA SILVA SOUZA;FALSE;;O sistema deve se integrar a dispositivos que monitorem os sinais vitais em tempo real
+6;302201695;JOÃO GABRIEL CAVALCANTE FRANÇA;FALSE;;O sistema deve permitir o login utilizando reconhecimento facial.
+6;302201697;JOÃO VITOR ALVES DOS REIS;FALSE;;"As teleconsultas devem ser gravadas para auditorias; em casos de suspeitas de negligência médica."
+6;201910887;JOÃO VITOR DA COSTA ALMEIDA;FALSE;;O sistema deve permitir que pacientes realizem consultas médicas remotas usando dispositivos de realidade virtual
+6;302201699;JOSÉ ALVES DE OLIVEIRA NETO;FALSE;;O sistema deve garantir que todas as informações médicas sejam armazenadas com segurança e possam ser compartilhadas com o médico autorizado dentro do ambiente virtual.
+6;302004761;JOSÉ CARLOS LEE;FALSE;;"O sistema deve permitir que o médico carregue modelos anatômicos 3D genéricos ou específicos do paciente (baseados em exames como tomografia/ressonância) no ambiente VR e manipule-os (girar; ampliar; destacar partes) durante a consulta para explicar condições ou procedimentos ao paciente de forma visual e interativa."
+6;302300194;JOSEPPE PEDRO CUNHA FELLINI;FALSE;;O sistema deve permitir consultas médicas remotas utilizando realidade virtual para uma experiência mais imersiva e interativa.
+6;302201700;LEONARDO MOREIRA DE ARAÚJO;FALSE;;O sistema deve permitir que o cancelamento de uma consulta seja feita em até no máximo 24h antes do horário marcado.
+6;302201703;LUCAS GABRIEL NUNES ALVES;FALSE;;"Oferecer módulos de treinamento para médicos e profissionais de saúde; simulando cenários de consultas e diagnósticos; para aprimorar habilidades e preparar para casos complexos."
+6;302004766;LUIS FELIPE FERREIRA SILVA;FALSE;;"O sistema deve possuir integração com os principais sistemas de registro de dados médicos do SUS; como Conecte SUS e RNDS."
+6;302302618;MARCELLO RONALD JOSÉ DA SILVA;FALSE;;O Sistema deve ser acessível a usuários em condições especiais.
+6;202108922;MARIA EDUARDA DE CAMPOS RAMOS;FALSE;;"O sistema deve permitir o agendamento de consultas; envio de convites e lembretes; além de fornecer integração com calendários."
+6;302201706;MATEUS HENRIQUE GANDI DE OLIVEIRA;FALSE;;"O sistema deve ser capaz de escanear e simular a execução de movimentos do paciente a ser tratado a partir de gravações executadas por ele mesmo. Dessa forma; um médico pode analisar de forma mais fácil e não necessariamente em sincronia com o paciente; mas sim um horário de diponibilidade do médico. O aparelho; por ser caro; compensa mais do lado do médico; que precisa de um para atender N pacientes."
+6;302201707;MATHEUS FRANCO CASCÃO COSTA;FALSE;;O sistema deve ter uma sala virtual 3D onde médico e paciente interagem em tempo real com avatares.
+6;302204842;MAURO SÉRGIO DO NASCIMENTO JUNIOR;FALSE;;O sistema deve se integrar com smartwatches e sensores de saúde para possibilitar monitoramento em tempo real.
+6;302201708;MIKAEL BORGES DE OLIVEIRA E SILVA JUNIOR;FALSE;;Treinamentos médicos em VR para praticar procedimentos de forma segura.
+6;302300197;PHABLO TAVARES PAIXÃO;FALSE;;"o sistema deve permitir que o médico crie uma sala virtual para a consulta; que pode ser customizada da maneira que desejar dependendo do tipo de paciente."
+6;302200031;RAQUEL DIAS DA SILVA;FALSE;;O sistema deve permitir que médicos e pacientes interajam em um ambiente virtual 3D simulando uma consulta presencial.
+6;302201712;SAMUEL JOSE EVANGELISTA ALVES;FALSE;;O sistema deve integrar um assistente virtual que transcreve a consulta para facilitar a consulta e elaboração do prontuário do paciente
+6;302201713;SOPHIA FERNANDES MAGALHÃES ALMEIDA;FALSE;;O sistema deve permitir que o paciente envie exames e documentos médicos antes da consulta para análise do médico.
+6;302201714;STEPHANY DE OLIVEIRA SOUSA MILHOMEM;FALSE;;O sistema deve permitir que médicos solicitem e analisem exames dentro do ambiente VR.
+6;302201715;TANIELE ROCHA MADUREIRA;FALSE;;O sistema deve notificar os usuários no momento de uma consulta
+6;302009586;THAYLINY ALVES DE MOURA;FALSE;;O  sistema deve permitir o usuário escolher a especialidade  que deseja consultar
+6;302201716;THIAGO VICENTE DE AQUINO;FALSE;;"A plataforma deve possibilitar exames simples; como visualização de lesões ou monitoramento de sinais vitais via dispositivos conectados."
+6;302204532;VICTOR MARTINS VIEIRA;FALSE;;"O sistema deve implementar medidas para garantir que as informações trocadas durante as sessões de telemedicina sejam protegidas; de forma a evitar o acesso indevido."
+6;302201717;VITOR MARTINS CASTANHEIRA;FALSE;;O sistema deve permitir que todos os detalhes visuais do paciente sejam perfeitamentes perceptíveis para o médico
+6;302201718;VITOR PAULO ETERNO GODOI;FALSE;;"O sistema deve permitir que mais de uma pessoa interaja com o médico; para o caso de pacientes com limitações extremas."
+6;302204843;VITORIA LUZ ALVES D ABADIA;FALSE;;"Os pacientes e médicos devem usar dispositivos de VR (como Oculus Rift; HTC Vive; PlayStation VR) para entrar em uma sala de consulta virtual. O médico pode interagir com o paciente; realizar o exame de forma virtual (com representações 3D de partes do corpo; por exemplo) e fazer a anamnese."
