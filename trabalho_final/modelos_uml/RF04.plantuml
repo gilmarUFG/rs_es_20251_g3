@@ -1,1 +1,48 @@
+@startuml
+skinparam classAttributeIconSize 0
+
+class Usuario {
+  +id: int
+  +nome: string
+  +email: string
+}
+
+class RelatorioConsumo {
+  +dataGeracao: Date
+  +gerarRelatorio(): void
+}
+
+class ConsumoDiario {
+  +data: Date
+  +quantidadeKWh: float
+  +valorEmReais: float
+}
+
+class Semana {
+  +inicio: Date
+  +fim: Date
+  +dias: List<ConsumoDiario>
+}
+
+class ComparadorConsumo {
+  +compararDiasSemana(semana: Semana): Map<string, float>
+}
+
+class ExportadorRelatorio {
+  +exportarPDF(relatorio: RelatorioConsumo): void
+  +exportarCSV(relatorio: RelatorioConsumo): void
+}
+
+class VisualizacaoGrafica {
+  +gerarGrafico(semana: Semana): void
+}
+
+Usuario --> RelatorioConsumo : consulta
+RelatorioConsumo --> Semana : refere-se a
+Semana --> ConsumoDiario : contém
+RelatorioConsumo --> ComparadorConsumo : utiliza
+RelatorioConsumo --> ExportadorRelatorio : permite
+RelatorioConsumo --> VisualizacaoGrafica : exibe via
+
+@enduml
 
