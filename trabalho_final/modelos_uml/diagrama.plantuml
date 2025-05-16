@@ -1,0 +1,95 @@
+@startuml Sistema de Gestão de Energia
+' Configurações iniciais
+skinparam classAttributeIconSize 0
+
+' Classes principais
+
+class Usuario {
+  - id: UUID
+  - nome: String
+  - email: String
+  - preferencias: PreferenciasUsuario
+}
+
+class Dispositivo {
+  - id: UUID
+  - nome: String
+  - tipo: String
+  - consumoMedioWatts: Double
+  - status: String
+}
+
+class AssistentePessoal {
+  - id: UUID
+  - nome: String
+  - tipo: String  <<ex: Alexa, Google Assistant>>
+}
+
+class SimulacaoEconomia {
+  - id: UUID
+  - data: Date
+  - descricao: String
+  - economiaEstimativaKWh: Double
+  - economiaEstimativaReais: Double
+}
+
+class HabitoConsumo {
+  - id: UUID
+  - diaSemana: String
+  - horarioInicio: Time
+  - duracaoMinutos: Int
+}
+
+class RelatorioConsumo {
+  - id: UUID
+  - data: Date
+  - consumoTotalKWh: Double
+  - consumoPorDispositivo: Map<String, Double>
+  - comparativoSemanal: String
+}
+
+class Plataforma {
+  - nome: String
+  - sistemaOperacional: String
+}
+
+class InterfaceGrafica {
+  - id: UUID
+  - tema: String
+  - acessibilidadeAtivada: Boolean
+}
+
+class GraficoConsumo {
+  - tipo: String
+  - legenda: String
+  - valores: List<Double>
+}
+
+class ExportacaoRelatorio {
+  - formato: String  <<ex: PDF, CSV>>
+  - caminhoDestino: String
+}
+
+class PadraoConsumo {
+  - descricao: String
+  - recorrente: Boolean
+}
+
+' Associações
+
+Usuario "1" -- "0..*" Dispositivo
+Usuario "1" -- "0..*" HabitoConsumo
+Usuario "1" -- "0..*" SimulacaoEconomia
+Usuario "1" -- "0..*" RelatorioConsumo
+Usuario "1" -- "1" InterfaceGrafica
+Usuario "1" -- "0..*" AssistentePessoal
+
+Dispositivo "1" -- "0..*" PadraoConsumo
+InterfaceGrafica "1" -- "1..*" Plataforma
+InterfaceGrafica "1" -- "0..*" GraficoConsumo
+RelatorioConsumo "1" -- "1" ExportacaoRelatorio
+
+SimulacaoEconomia "1" -- "0..*" Dispositivo
+RelatorioConsumo "1" -- "0..*" PadraoConsumo
+
+@enduml
