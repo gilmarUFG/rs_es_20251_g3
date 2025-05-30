@@ -1,36 +1,26 @@
-@startuml Sistema de Gestão de Energia
-' Configurações iniciais
+@startuml Sistema De Gestão De Energia
 skinparam classAttributeIconSize 0
 
-' Classes principais
+' === CLASSES ===
 
 class Usuario {
   - id: UUID
   - nome: String
   - email: String
-  - preferencias: PreferenciasUsuario
 }
 
 class Dispositivo {
   - id: UUID
   - nome: String
   - tipo: String
-  - consumoMedioWatts: Double
+  - potenciaWatts: Double
+  - tempoUsoMedioHoras: Double
   - status: String
 }
 
-class AssistentePessoal {
-  - id: UUID
-  - nome: String
-  - tipo: String  <<ex: Alexa, Google Assistant>>
-}
-
-class SimulacaoEconomia {
-  - id: UUID
-  - data: Date
-  - descricao: String
-  - economiaEstimativaKWh: Double
-  - economiaEstimativaReais: Double
+class DispositivoIoT {
+  - protocolo: String
+  - fabricante: String
 }
 
 class HabitoConsumo {
@@ -38,58 +28,85 @@ class HabitoConsumo {
   - diaSemana: String
   - horarioInicio: Time
   - duracaoMinutos: Int
+  - frequenciaSemanal: Int
+}
+
+class SimulacaoEconomia {
+  - id: UUID
+  - descricao: String
+  - economiaEstimativaKWh: Double
+  - economiaEstimativaReais: Double
 }
 
 class RelatorioConsumo {
   - id: UUID
   - data: Date
   - consumoTotalKWh: Double
-  - consumoPorDispositivo: Map<String, Double>
   - comparativoSemanal: String
 }
 
-class Plataforma {
+class HistoricoConsumo {
+  - id: UUID
+  - periodo: String
+  - consumoTotal: Double
+}
+
+class ProjecaoConsumo {
+  - id: UUID
+  - periodo: String
+  - consumoPrevistoKWh: Double
+}
+
+class Notificacao {
+  - id: UUID
+  - mensagem: String
+  - tipo: String
+  - dataHora: DateTime
+}
+
+class ModoEconomia {
+  - id: UUID
   - nome: String
-  - sistemaOperacional: String
+  - horarioAtivacao: Time
+  - dispositivosIncluidos: String
+  - nivelEconomia: String
+  - ativo: Boolean
+}
+
+class AssistentePessoal {
+  - id: UUID
+  - nome: String
+  - tipo: String
+}
+
+class ComandoVoz {
+  - id: UUID
+  - comando: String
+  - dataHora: DateTime
+  - resultado: String
 }
 
 class InterfaceGrafica {
   - id: UUID
   - tema: String
-  - acessibilidadeAtivada: Boolean
+  - sistemaOperacional: String
 }
 
-class GraficoConsumo {
-  - tipo: String
-  - legenda: String
-  - valores: List<Double>
-}
+' === ASSOCIAÇÕES ===
 
-class ExportacaoRelatorio {
-  - formato: String  <<ex: PDF, CSV>>
-  - caminhoDestino: String
-}
+Usuario "1" -- "many" Dispositivo
+Dispositivo <|-- DispositivoIoT
 
-class PadraoConsumo {
-  - descricao: String
-  - recorrente: Boolean
-}
-
-' Associações
-
-Usuario "1" -- "0..*" Dispositivo
-Usuario "1" -- "0..*" HabitoConsumo
-Usuario "1" -- "0..*" SimulacaoEconomia
-Usuario "1" -- "0..*" RelatorioConsumo
+Usuario "1" -- "many" HabitoConsumo
+Usuario "1" -- "many" SimulacaoEconomia
+Usuario "1" -- "many" RelatorioConsumo
+Usuario "1" -- "many" HistoricoConsumo
+Usuario "1" -- "many" ProjecaoConsumo
+Usuario "1" -- "many" Notificacao
+Usuario "1" -- "many" ModoEconomia
+Usuario "1" -- "many" AssistentePessoal
 Usuario "1" -- "1" InterfaceGrafica
-Usuario "1" -- "0..*" AssistentePessoal
-
-Dispositivo "1" -- "0..*" PadraoConsumo
-InterfaceGrafica "1" -- "1..*" Plataforma
-InterfaceGrafica "1" -- "0..*" GraficoConsumo
-RelatorioConsumo "1" -- "1" ExportacaoRelatorio
-
-SimulacaoEconomia "1" -- "0..*" Dispositivo
-RelatorioConsumo "1" -- "0..*" PadraoConsumo
+AssistentePessoal "1" -- "many" ComandoVoz
+ModoEconomia "1" -- "many" Dispositivo
 
 @enduml
