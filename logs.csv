@@ -1,0 +1,83 @@
+Commit;Author;Date;Message
+71e60a921baf81e1ff836f465936265bed372640;Gilmar Ferreira Arantes <gilmar.arantes@ufg.br>;Mon Jun 30 11:42:27 2025 -0300;update repository
+60fa4f15c054a39a8a78d076b713d353f8580d51 Merge:bc1dbab 5ae15c3;Gilmar Ferreira Arantes <gilmar.arantes@ufg.br>;Sun Jun 29 13:12:08 2025 -0300;Merge branch 'estudante'
+bc1dbabfa8d5492ba98ab86ada23dc82e1b5f4f4;Gilmar Ferreira Arantes <gilmar.arantes@ufg.br>;Sun Jun 29 13:11:53 2025 -0300;update repository
+5ae15c37db6accc2cab39239ee49f75d69267fcf;ClaudioLouza <claudio_filho@discente.ufg.br>;Wed Jun 25 19:44:37 2025 -0300;Delete slides_apresentacao/slides
+3d947682fd7909077a8c3092d390d7f7ca1446ec;ClaudioLouza <claudio_filho@discente.ufg.br>;Wed Jun 25 19:44:05 2025 -0300;Adição dos slides da apresentação
+09a3426407db0d09c0cb3a14b9c3abb176e2aae2;ClaudioLouza <claudio_filho@discente.ufg.br>;Wed Jun 25 19:42:47 2025 -0300;Create slides
+6692f0cabb4a4273aeb9f13e232857e231657b6e Merge:e8b0a42 d3d7975;Gilmar Ferreira Arantes <gilmar.arantes@ufg.br>;Thu Jun 5 15:10:25 2025 -0300;Merge branch 'jannder1-patch-1' into estudante
+e8b0a42bd166705826dbf307c8f2bec36a7bd439 Merge:ec4b0d2 1f6a303;Gilmar Ferreira Arantes <gilmar.arantes@ufg.br>;Thu Jun 5 15:06:04 2025 -0300;Merge remote-tracking branch 'origin/jannder1-patch-2' into estudante
+ec4b0d2c3784dbaa5c75ebe10a25bbd862b3ab2f;Phablo Tavares Paixão <134174533+phablo-tavares@users.noreply.github.com>;Thu May 29 23:50:21 2025 -0300;Add files via upload
+0fe1e0cd729158d9b5082e371ca1b9372a0888d2;Phablo Tavares Paixão <134174533+phablo-tavares@users.noreply.github.com>;Thu May 29 23:48:19 2025 -0300;Update diagrama.plantuml
+a4239a2436eb0398671c21c302f8cae0abac96df;Phablo Tavares Paixão <134174533+phablo-tavares@users.noreply.github.com>;Thu May 29 17:31:14 2025 -0300;Create HU-008.md
+2e92d5a56850eea860ae741d9a0ee2a89dfc6220;Phablo Tavares Paixão <134174533+phablo-tavares@users.noreply.github.com>;Thu May 29 17:22:43 2025 -0300;Update HU-007.md
+46a506beee02c2da77a90a14ba0077e39052db5d;Phablo Tavares Paixão <134174533+phablo-tavares@users.noreply.github.com>;Thu May 29 16:59:56 2025 -0300;Create HU-007.md
+59d643923d990970fbfd888e12ca09e6e3ff269c;jannder1 <148823313+jannder1@users.noreply.github.com>;Wed May 28 18:43:52 2025 -0300;Add files via upload
+ce086b0eeacf79649b6e581981b642048887d92b;Luis Felipe <109095266+felipeluisfs@users.noreply.github.com>;Wed May 28 17:12:10 2025 -0300;Update HU-009.md
+109630d3fd20277816ff83595fee9130a70221a3;Luis Felipe <109095266+felipeluisfs@users.noreply.github.com>;Wed May 28 17:09:41 2025 -0300;Update HU-009.md
+0b70b5f38480df487aab04f86858180e0def10a8;Luis Felipe <109095266+felipeluisfs@users.noreply.github.com>;Wed May 28 17:08:28 2025 -0300;Add HU-009
+0795d195181a258011e3729d702ce4629dbadac8;jannder1 <148823313+jannder1@users.noreply.github.com>;Wed May 28 13:11:58 2025 -0300;Add files via upload
+1f6a30317e69753cfacda0028ea498a25e9e7670;jannder1 <148823313+jannder1@users.noreply.github.com>;Wed May 28 13:09:30 2025 -0300;Add files via upload
+d3d797596e9870686c3a85639d00dd36d7746e38;jannder1 <148823313+jannder1@users.noreply.github.com>;Wed May 28 12:53:59 2025 -0300;Create HU-006.md
+de4f302dc2ec903269efd7fa61db0c133f99a7e2;jannder1 <148823313+jannder1@users.noreply.github.com>;Fri May 23 17:56:42 2025 -0300;Add files via upload
+cdd053b996fa117a4cd756ee10b383d869bbdb7f;Veloso <alvaro.lisboa@docnix.com.br>;Thu May 22 19:54:57 2025 -0300;trabalho_final/definicao_trabalho_final_g3.md
+04c282130f827ea1590cced89b11c7919e40cb1d;jannder1 <148823313+jannder1@users.noreply.github.com>;Thu May 15 23:48:54 2025 -0300;Update HU-001.md
+70463f4ed74329d41cae2b39d265a5c6c156bcf5;jannder1 <148823313+jannder1@users.noreply.github.com>;Thu May 15 23:47:44 2025 -0300;Update HU-001.md
+56973655502d8f599af8c66f7ec191f1c64bd3e6;jannder1 <148823313+jannder1@users.noreply.github.com>;Thu May 15 23:47:23 2025 -0300;Update HU-001.md
+a1009e0fd9db6f61192da3b8ded1ea4095be3ae0;Veloso <alvaro.lisboa@docnix.com.br>;Thu May 15 23:41:02 2025 -0300;Criando diagrama de classes
+dbbde48a985ee436983660aa415d81eac3e58d8c;jannder1 <148823313+jannder1@users.noreply.github.com>;Thu May 15 23:37:41 2025 -0300;Rename RF01.md to HU-001.md
+d61197f9e40a966badc4ce03f793d1b7ac161a56;jannder1 <148823313+jannder1@users.noreply.github.com>;Thu May 15 23:17:34 2025 -0300;Update RF04.plantuml
+a4719f26664ab3c2185a10bf003c978af7d8de5d;Álvaro Veloso <57870230+AlvaroVeloso070@users.noreply.github.com>;Thu May 15 23:17:04 2025 -0300;Update and rename RF04.md to HU-004.md
+a0c154559bde253287cc4c550480ea905b46f0c1;jannder1 <148823313+jannder1@users.noreply.github.com>;Thu May 15 23:16:42 2025 -0300;Create RF04.plantuml
+a8dd1d6d5d9db1418f1cd2f521dde2683d271590;Álvaro Veloso <57870230+AlvaroVeloso070@users.noreply.github.com>;Thu May 15 23:16:03 2025 -0300;Rename HU-05.md to HU-005.md
+8050a52fb60df4018bd9b5ea6fd48088dee0343c;Álvaro Veloso <57870230+AlvaroVeloso070@users.noreply.github.com>;Thu May 15 23:15:52 2025 -0300;Update and rename HU-02.md to HU-002.md
+2d14ad9361fa3459daca6395e2fb39a86c68f93a;Álvaro Veloso <57870230+AlvaroVeloso070@users.noreply.github.com>;Thu May 15 23:15:34 2025 -0300;Update and rename RF03.md to HU-003.md
+fcbdf7460bea972de6a991b72b353d9354d5489d;Álvaro Veloso <57870230+AlvaroVeloso070@users.noreply.github.com>;Thu May 15 23:14:34 2025 -0300;Update and rename RF02.md to HU-02.md
+e4eb16da0a0aa1ad2fb1b8f09ef0ac66bfee8e92;Álvaro Veloso <57870230+AlvaroVeloso070@users.noreply.github.com>;Thu May 15 23:14:18 2025 -0300;Update RF02.md
+e5196c00e0b7fc3d36b9c35f30235470ca849b0b;Álvaro Veloso <57870230+AlvaroVeloso070@users.noreply.github.com>;Thu May 15 23:12:09 2025 -0300;Create HU-05.md
+16555f30c101a9630270442830003ddea2657fa8;jannder1 <148823313+jannder1@users.noreply.github.com>;Thu May 15 23:06:58 2025 -0300;Update RF04.md
+7166fac204ca40edfe9dd4c04e68e5bedcbdb5e9;jannder1 <148823313+jannder1@users.noreply.github.com>;Thu May 15 23:02:09 2025 -0300;Create RF04.md
+77b025bc721f2f75074be2c826cd60c80402ca76;Luis Felipe <109095266+felipeluisfs@users.noreply.github.com>;Thu May 15 22:19:36 2025 -0300;fix: update RF03.md
+aab6a9f68e746280b8a197bd908a174e56aa4262;Luis Felipe <109095266+felipeluisfs@users.noreply.github.com>;Thu May 15 22:14:38 2025 -0300;add RD03: UML diagram
+b5be9ad1971f654e8944fb10649a6d039d4d681f;Luis Felipe <109095266+felipeluisfs@users.noreply.github.com>;Thu May 15 22:14:01 2025 -0300;add RF03: user story
+5a2c7cec293332c70f93d30ddb310fb162086f02;ClaudioLouza <claudio_filho@discente.ufg.br>;Thu May 15 21:45:44 2025 -0300;Add files via upload
+e199cb3ea9369391c8b41d1ccf2888365921a030;ClaudioLouza <claudio_filho@discente.ufg.br>;Thu May 15 21:44:36 2025 -0300;Add files via upload
+97352f5c9e4ca6fd56e81410cf7edf4f5704b48b;Phablo Tavares Paixão <134174533+phablo-tavares@users.noreply.github.com>;Thu May 15 20:50:52 2025 -0300;Rename RF01 to RF01.md
+e8d5715ce84f503a628f550bc73d3d2a652e326b;Phablo Tavares Paixão <134174533+phablo-tavares@users.noreply.github.com>;Thu May 15 20:50:38 2025 -0300;Rename dummy to RF01
+1b1723c617fcbbd3eab80372c992709d418596b8;Phablo Tavares Paixão <134174533+phablo-tavares@users.noreply.github.com>;Thu May 15 20:18:03 2025 -0300;Create dummy
+faeaaf19458f9022ee0fdfbeea8835e6234259ee;Phablo Tavares Paixão <134174533+phablo-tavares@users.noreply.github.com>;Thu May 15 20:17:19 2025 -0300;Delete trabalho_final/historias_usuarios/dummy
+1b10bbd814f3034ebf081cc02797c2be1aab9907;Phablo Tavares Paixão <134174533+phablo-tavares@users.noreply.github.com>;Thu May 15 20:16:56 2025 -0300;Create dummy
+49cd060c30ace0a843ee520f7c703a83773d3853;Phablo Tavares Paixão <134174533+phablo-tavares@users.noreply.github.com>;Thu May 15 20:16:24 2025 -0300;Create dummy
+58cc38ac1692dc4195285cfefe0251e22c931a66;Luis Felipe <109095266+felipeluisfs@users.noreply.github.com>;Thu May 8 20:40:28 2025 -0300;Add Atividade Supervisionada 5
+3cd8f4d10a2c805d040353edb4dfffafff64acbb;ClaudioLouza <claudio_filho@discente.ufg.br>;Thu May 8 20:28:23 2025 -0300;Add files via upload
+25a999c46b47ff69f22f1aa2b06ab3f1ce8ddabd Merge:54fd7a6 2fc6274;Gilmar Ferreira Arantes <130784207+gilmarUFG@users.noreply.github.com>;Sat Apr 26 15:31:48 2025 -0300;Merge pull request #5 from gilmarUFG/main update from main
+2fc6274e5bd446786e1b090d6d5c17f58ea51cac;Gilmar Ferreira Arantes <gilmar.arantes@ufg.br>;Sat Apr 26 15:30:41 2025 -0300;update repository
+969d84d2cd0a7fd96d3d8673cf53ac177ddd6264;Gilmar Ferreira Arantes <gilmar.arantes@ufg.br>;Fri Apr 25 16:51:36 2025 -0300;Create ae_aula07_Phablo_.md
+56f768ede053b77dfa6e401f51dc495ff7c5dcaa;Gilmar Ferreira Arantes <130784207+gilmarUFG@users.noreply.github.com>;Fri Apr 25 16:49:22 2025 -0300;Delete atividades_supervisionadas/ae_aula07<Phablo>.md
+c2c6588b772dd3ad61912fc7e234f15ed012a1dd Merge:0a5524d 54fd7a6;Gilmar Ferreira Arantes <130784207+gilmarUFG@users.noreply.github.com>;Fri Apr 25 16:43:38 2025 -0300;Merge pull request #4 from gilmarUFG/estudante Estudante
+54fd7a6f729e92f17eaba15545e80151688902d8;Phablo Tavares Paixão <134174533+phablo-tavares@users.noreply.github.com>;Thu Apr 24 21:14:55 2025 -0300;Rename ae_aula07_Phablo_.md to ae_aula07<Phablo>.md
+e3bc33f0c153319dfef6e39d453cda09f99d47aa;Phablo Tavares Paixão <134174533+phablo-tavares@users.noreply.github.com>;Thu Apr 24 21:14:37 2025 -0300;Delete atividades_supervisionadas/ae_aula07<Phablo>.md
+0a5524d9e9195d4aca1c1e3cb4b1cd125bf0550a Merge:7000372 ca96614;Gilmar Ferreira Arantes <gilmar.arantes@ufg.br>;Thu Apr 24 18:59:41 2025 -0300;Merge remote-tracking branch 'origin/phablo-tavares-patch-1' into estudante
+70003726ee019024e7b8f3594dc4552df683d49c;Phablo Tavares Paixão <134174533+phablo-tavares@users.noreply.github.com>;Thu Apr 24 18:38:21 2025 -0300;Rename ae_aula07_Phablo_.md.md to ae_aula07_Phablo_.md
+e016ad3537514164f1d79316eb62b2647132532c;Phablo Tavares Paixão <134174533+phablo-tavares@users.noreply.github.com>;Thu Apr 24 18:37:58 2025 -0300;Add files via upload
+ca9661494e287fa0df611aa4a5fa59b91d822a90;Phablo Tavares Paixão <134174533+phablo-tavares@users.noreply.github.com>;Thu Apr 24 18:35:00 2025 -0300;Create ae_aula07<Phablo>.md
+2ce306b301dfb2563d3ffc2bd54783b602e8f8a9;Gilmar Ferreira Arantes <gilmar.arantes@ufg.br>;Fri Apr 18 17:11:02 2025 -0300;Create as2_rs_grupo3.md
+89f3406458a1aa40b62ab1c7878b81b945b7567d;Gilmar Ferreira Arantes <gilmar.arantes@ufg.br>;Fri Apr 18 11:23:46 2025 -0300;update repository
+e2d40ab0e777c21178efc2ea39e3bcd7db02b6bd;Gilmar Ferreira Arantes <gilmar.arantes@ufg.br>;Thu Apr 17 19:02:01 2025 -0300;update repository
+013345aeb2bf7da5b48be4667a6d780b68a5a7dd;Álvaro Veloso <57870230+AlvaroVeloso070@users.noreply.github.com>;Thu Apr 10 21:46:22 2025 -0300;Cenários grupo 3
+c4be153b6a64d9e12cc4a132da8bffd09e07f015;phablo-tavares <134174533+phablo-tavares@users.noreply.github.com>;Wed Apr 9 17:55:45 2025 -0300;Update as3_rs_grupo3.md
+7f1ee88cc1b9c2ea0433edd5c38793908f5dc1c7;phablo-tavares <134174533+phablo-tavares@users.noreply.github.com>;Tue Apr 8 19:57:58 2025 -0300;Create as3_rs_grupo3.md
+43ef2c81aae09a34d607f63a1cc4e632df146bee Merge:2a5fe73 c86d9b8;Gilmar Ferreira Arantes <gilmar.arantes@ufg.br>;Sat Mar 29 11:47:44 2025 -0300;Merge branch 'estudante'
+c86d9b885d8fad47f7e934a64dfab976a89bb969;Álvaro Veloso <57870230+AlvaroVeloso070@users.noreply.github.com>;Thu Mar 27 21:10:01 2025 -0300;Update ap-aula4-g3.md
+165540200fc35341926e322464f868a60f25f67c;Álvaro Veloso <57870230+AlvaroVeloso070@users.noreply.github.com>;Thu Mar 27 21:07:36 2025 -0300;Atividade aula 27/03/2025
+2a5fe73ed35ac7b3140048fd7eaa9d514208b01e Merge:32131b5 78af369;Gilmar Ferreira Arantes <gilmar.arantes@ufg.br>;Thu Mar 27 21:00:37 2025 -0300;Merge branch 'estudante'
+78af36941a7667d4b2ca5b38620428f314854263;Luis Felipe <109095266+felipeluisfs@users.noreply.github.com>;Wed Mar 26 17:55:51 2025 -0300;Atividade Supervisionada 2
+2ca24456121c3c8dda2ed488b749442f74727e1e;jannder1 <148823313+jannder1@users.noreply.github.com>;Wed Mar 26 17:54:25 2025 -0300;Add files via upload
+32131b506805c60fb0283d5c50d2fe13367940b9 Merge:49d3c56 b58221d;Gilmar Ferreira Arantes <130784207+gilmarUFG@users.noreply.github.com>;Fri Mar 21 18:42:55 2025 -0300;Merge pull request #2 from gilmarUFG/estudante Estudante
+b58221d9e1c7197dad14a36c19f792c234135436;Álvaro Veloso <57870230+AlvaroVeloso070@users.noreply.github.com>;Thu Mar 20 21:23:13 2025 -0300;Update ap-aula3-g3.md
+5dc86255089bd907ea85267491f78e18f20f537f;Álvaro Veloso <57870230+AlvaroVeloso070@users.noreply.github.com>;Thu Mar 20 21:22:47 2025 -0300;Update ap-aula3-g3.md
+d2a6890a71bc3559ac1b1310cf76ec97926974cc;Álvaro Veloso <57870230+AlvaroVeloso070@users.noreply.github.com>;Thu Mar 20 21:20:35 2025 -0300;Aula 3
+7724467b00383cb7499c420fb4ae69d67730245e;Álvaro Veloso <57870230+AlvaroVeloso070@users.noreply.github.com>;Thu Mar 20 21:18:35 2025 -0300;Rename aula2.md to ap-aula2-g3.md
+49d3c569ba9a9d4ad5638d7f2a0bb0105dba37c3;Álvaro Veloso <57870230+AlvaroVeloso070@users.noreply.github.com>;Thu Mar 13 22:16:38 2025 -0300;Create aula2.md
+a86446c3cf058837939d910a245977ad3bef9d5a;Gilmar Ferreira Arantes <gilmar.arantes@ufg.br>;Fri Feb 28 17:08:04 2025 -0300;Update README.md file.
+32fa2245b7a30abf4c4fd592e66fe4bebabdc1fd;Gilmar Ferreira Arantes <130784207+gilmarUFG@users.noreply.github.com>;Fri Feb 28 12:01:09 2025 -0300;Initial commit
